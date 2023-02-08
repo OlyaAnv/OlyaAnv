@@ -1,6 +1,8 @@
 ### Hi there 👋
-<p><a href="https://t.me/androidgirl">➡️ Read my blog</a></p>
-<p><a href="https://mobile-games.tilda.ws">➡️ Check out my website</a></p>
+-  &nbsp;I’m currently learning Android, Kotlin
+-  &nbsp;Read my [blog](https://t.me/androidgirl)
+-  &nbsp;Check out my [website](https://mobile-games.tilda.ws)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
