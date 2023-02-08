@@ -1,12 +1,11 @@
-## Hi I'm Olga 👋
+## Hi, I'm Olga 👋
 
-Welcome to my profile! I'm studying mobile development. I’m currently learning Android, Kotlin. Thanks for visiting.
--  &nbsp;I’m currently learning Android, Kotlin
+Welcome to my profile! I'm studying mobile development. I’m currently learning Android and Kotlin.
 -  &nbsp;My [blog](https://t.me/androidgirl)
 -  &nbsp;My  [website](https://mobile-games.tilda.ws)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left">
    <a href="https://www.java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="git" width="40" height="40" /> </a>
   <a href="https://developer.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40" /> </a>
@@ -14,8 +13,11 @@ Welcome to my profile! I'm studying mobile development. I’m currently learning
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
  </p>
  
+ ##
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaAnv&layout=compact)](https://github.com/OlyaAnv/github-readme-stats)
  
+ ## 
  <img src="https://gpvc.arturio.dev/OlyaAnv" alt="profile views"> 
 <!--
 **OlyaAnv/OlyaAnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
