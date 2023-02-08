@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi I'm Olga 👋
+
+Welcome to my profile! I'm studying mobile development. I’m currently learning Android, Kotlin. Thanks for visiting.
 -  &nbsp;I’m currently learning Android, Kotlin
--  &nbsp;Read my [blog](https://t.me/androidgirl)
--  &nbsp;Check out my [website](https://mobile-games.tilda.ws)
+-  &nbsp;My [blog](https://t.me/androidgirl)
+-  &nbsp;My  [website](https://mobile-games.tilda.ws)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,6 +15,8 @@
  </p>
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaAnv&layout=compact)](https://github.com/OlyaAnv/github-readme-stats)
+ 
+ <img src="https://gpvc.arturio.dev/OlyaAnv" alt="profile views"> 
 <!--
 **OlyaAnv/OlyaAnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
