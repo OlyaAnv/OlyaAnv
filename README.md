@@ -1,4 +1,4 @@
-### Hi I'm Olga 👋
+## Hi I'm Olga 👋
 
 Welcome to my profile! I'm studying mobile development. I’m currently learning Android, Kotlin. Thanks for visiting.
 -  &nbsp;I’m currently learning Android, Kotlin
