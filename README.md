@@ -4,7 +4,6 @@ Welcome to my profile! I'm studying mobile development. I’m currently learning
 I have a blog and my own website. I wanted to create computer games, so I made a game for a mobile phone. So I started studying mobile development.
 -  &nbsp;My [blog](https://t.me/androidgirl)
 -  &nbsp;My  [website](https://mobile-games.tilda.ws)
-
 ##
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
