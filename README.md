@@ -13,6 +13,11 @@ I have a blog and my own website. I wanted to create computer games, so I made a
   <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
  </p>
  
+ ##
+<h4 align="left">Statistics:</h4>
+ <p>
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaAnv&layout=compact" alt="statistics" )>
+</p>
 
 <!--
 **OlyaAnv/OlyaAnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
