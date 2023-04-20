@@ -22,6 +22,14 @@ I have a blog and my own website. I wanted to create computer games, so I made a
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=OlyaAnv&layout=compact" alt="statistics" )>
 </p>
 
+## <h4 align="left">Contacts:</h4>
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/)](https://t.me/)
+<a href="mailto:@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+![OlyaAnv's GitHub stats](https://github-readme-stats.vercel.app/api?username=OlyaAnv&show_icons=true)
+
 <!--
 **OlyaAnv/OlyaAnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
